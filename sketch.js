@@ -9,3 +9,4 @@ function draw() {
 walk.show()
 walk.update()
 }
+
